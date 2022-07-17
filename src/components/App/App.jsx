@@ -5,6 +5,7 @@ import { Header, Section, Container, Text } from 'components';
 import { Gallery, Todos } from 'tabs';
 
 export const App = () => {
+  
   return (
     <>
       <Header />
